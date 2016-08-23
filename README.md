@@ -16,6 +16,17 @@ Stated on the European Commission website:
 
 More information at http://ec.europa.eu/taxation_customs/vies/faqvies.do#item16
 
+# Requirements
+
+[![PHP-7.1 Approved](http://blob.in2itvof.com/php/php-7.1/approved_small.png)](http://blob.in2itvof.com/php/php-7.1/approved.png)
+
+- ~~Min PHP version: 5.4~~ [Announced End-of-Life 3 Sep 2015](http://php.net/eol.php)
+- Min supported PHP version: 5.6
+- Recommended PHP version: 7.0
+- Tested against PHP version: 7.1.0-Beta3
+- Extension: [soap](http://php.net/soap)
+- Extension: [pcntl](http://php.net/pcntl)
+
 [![Travis-CI Build status](https://api.travis-ci.org/DragonBe/vies.png)](https://travis-ci.org/DragonBe/vies) [![SensioLabs Insights](https://insight.sensiolabs.com/projects/21b019ce-dd1d-4d16-8b74-880b9ee5e795/mini.png)](https://insight.sensiolabs.com/projects/21b019ce-dd1d-4d16-8b74-880b9ee5e795) [![CodeClimate Analysis](https://d3s6mut3hikguw.cloudfront.net/github/DragonBe/vies/badges/gpa.svg)](https://codeclimate.com/github/DragonBe/vies) [![CodeClimate CodeCoverage](https://d3s6mut3hikguw.cloudfront.net/github/DragonBe/vies/badges/coverage.svg)](https://codeclimate.com/github/DragonBe/vies) [![CodeShip CI](https://codeship.com/projects/304718e0-8d01-0132-6960-7671d147512f/status?branch=master)](https://codeship.com/projects/60548) [![Build Status](https://status.continuousphp.com/git-hub/DragonBe/vies?token=e8721fe8-0619-4789-9691-33021709f42f)](https://continuousphp.com/git-hub/DragonBe/vies)
 
 # Installation
